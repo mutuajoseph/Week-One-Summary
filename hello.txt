@@ -1,0 +1,7 @@
+Tasks to be completed: 
+    Adjust the background to hsl(0, 100%, 74%) 
+        - linear gradient
+        - embed a color on an existing background 
+
+    Move the content to the center
+    Use different hover states on the inputs (focus, current, active, hover)
